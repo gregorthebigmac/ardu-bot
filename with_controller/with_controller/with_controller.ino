@@ -1,3 +1,8 @@
+/*
+NOTES: This has been wired up with the following hardware and wiring scheme:
+Mini-bot w/ Sabertooth Motor Controller
+*/
+
 #include <SoftwareSerial.h>
 #include <Sabertooth.h>
 
