@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/gfox/git_repos/ardu-bot/nix_with_ros/devel -DCMAKE_INSTALL_PREFIX=/home/gfox/git_repos/ardu-bot/nix_with_ros/install -G Unix Makefiles

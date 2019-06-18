@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gfox/git_repos/ardu-bot/nix_with_ros/install/setup.sh
