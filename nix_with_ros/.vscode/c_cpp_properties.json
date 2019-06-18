@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/gfox/Downloads/arduino-1.8.9/**",
+                "/home/gfox/Arduino/**",
+                "/home/gfox/Downloads/arduino-1.8.9/hardware/arduino/avr/**",
+                "/home/gfox/Downloads/arduino-1.8.9/tools/**"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [
+                "/home/gfox/Downloads/arduino-1.8.9/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ]
+        }
+    ],
+    "version": 4
+}

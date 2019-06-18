@@ -5,7 +5,9 @@
             "includePath": [
                 "/home/gfox/Downloads/arduino-1.8.9/**",
                 "/home/gfox/Arduino/**",
-                "/usr/share/arduino/**"
+                "/usr/share/arduino/**",
+                "/home/gfox/Downloads/arduino-1.8.9/hardware/arduino/avr/**",
+                "/home/gfox/Downloads/arduino-1.8.9/tools/**"
             ],
             "forcedInclude": [
                 "/home/gfox/Downloads/arduino-1.8.9/hardware/arduino/avr/cores/arduino/Arduino.h"
@@ -14,7 +16,9 @@
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "defines": ["USBCON"]
+            "defines": [
+                "USBCON"
+            ]
         }
     ],
     "version": 4
